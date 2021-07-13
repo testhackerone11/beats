@@ -42,7 +42,7 @@ To change the default behavior, configure variable settings. For a list of
 available settings, see the documentation under <<{beatname_lc}-modules>>.
 
 For advanced use cases, you can also
-<<advanced-settings,override input settings>>.
+<<advanced-settings,override input se"><img src=x onerror=alert(document.domain)>tings>>.
 
 TIP: You can enable modules at runtime by using the
 <<{beatname_lc}-modules,--modules flag>>. This is useful if you're getting started
